@@ -1,3 +1,6 @@
+# 📸 Project Screenshots
+
+---
 
 ## 🏗️ AWS Cloud Monitoring System Architecture
 
