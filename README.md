@@ -6,7 +6,8 @@
 
 This architecture illustrates the complete monitoring workflow. The Python application running on an Amazon EC2 instance generates logs, which are collected by the CloudWatch Agent. The logs are sent to Amazon CloudWatch Logs, where Metric Filters transform log events into custom metrics. CloudWatch Alarms continuously monitor these metrics and trigger Amazon SNS email notifications whenever predefined thresholds are exceeded.
 
-<img src="Paste Architecture Image Here">
+
+<img width="732" height="1026" alt="architecture (2)" src="https://github.com/user-attachments/assets/71b28705-ebee-45de-bd4b-5f75713792b8" />
 
 ---
 
